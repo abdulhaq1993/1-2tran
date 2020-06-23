@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.div1{
+    border-top: 3px black solid;
+    margin-left: 5%;
+    margin-top: 4%;
+    width: 70%;
+}
+.div11{
+ width: 100px;
+ height: 100px;
+ background: red;
+ margin-left: 6%;
+ transition: width 1s;
+}
+.div11:hover{
+        width: 69%;
+}
